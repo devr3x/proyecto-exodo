@@ -498,6 +498,16 @@
           }
         },
         {
+          "id": "generated.forgemod:crash_assistant:1.11.10@jar",
+          "name": "Crash Assistant",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 3181623,
+            "url": "https://devr3x.github.io/proyecto-exodo/servers/exodo-1.20.1/forgemods/required/CrashAssistant-forge-1.19-1.20.1-1.11.10.jar",
+            "MD5": "32c9e89c2fecb46baabe76568158a6d7"
+          }
+        },
+        {
           "id": "com.hlysine:create_connected:1.2.3-mc1.20.1@jar",
           "name": "Create: Connected",
           "type": "ForgeMod",
@@ -598,6 +608,36 @@
           }
         },
         {
+          "id": "earth.terrarium:handcrafted:3.0.6@jar",
+          "name": "Handcrafted",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 7111059,
+            "url": "https://devr3x.github.io/proyecto-exodo/servers/exodo-1.20.1/forgemods/required/handcrafted-forge-1.20.1-3.0.6.jar",
+            "MD5": "a5291f94fc830a80d2caf7d2ab7cd4fd"
+          }
+        },
+        {
+          "id": "net.raphimc:immediatelyfast:1.5.5+1.20.4@jar",
+          "name": "ImmediatelyFast",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 532063,
+            "url": "https://devr3x.github.io/proyecto-exodo/servers/exodo-1.20.1/forgemods/required/ImmediatelyFast-Forge-1.5.5+1.20.4.jar",
+            "MD5": "4d776686d7da62146099484b8c9e14af"
+          }
+        },
+        {
+          "id": "com.mcwlights.kikoz:mcwlights:1.1.5@jar",
+          "name": "Macaw's Lights and Lamps",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 547779,
+            "url": "https://devr3x.github.io/proyecto-exodo/servers/exodo-1.20.1/forgemods/required/mcw-lights-1.1.5-mc1.20.1forge.jar",
+            "MD5": "4d8aedce71e2963976d710ac1798b82b"
+          }
+        },
+        {
           "id": "org.embeddedt.modernfix.forge.init:modernfix:5.27.58+mc1.20.1@jar",
           "name": "ModernFix",
           "type": "ForgeMod",
@@ -615,6 +655,16 @@
             "size": 76237,
             "url": "https://devr3x.github.io/proyecto-exodo/servers/exodo-1.20.1/forgemods/required/MouseTweaks-forge-mc1.20.1-2.25.1.jar",
             "MD5": "ce4b5bbb9ef6a7905c458ab599ef4cb2"
+          }
+        },
+        {
+          "id": "com.samgj15:nightlights:1.1@jar",
+          "name": "Night Lights",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 377881,
+            "url": "https://devr3x.github.io/proyecto-exodo/servers/exodo-1.20.1/forgemods/required/nightlights-1.20.1-1.1.jar",
+            "MD5": "ef8bd4be30a00b9b9c6a9280886d5938"
           }
         },
         {
