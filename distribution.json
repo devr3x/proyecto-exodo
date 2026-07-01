@@ -19,83 +19,83 @@
       "autoconnect": true,
       "modules": [
         {
-          "id": "net.minecraftforge:lowcodelanguage:1.20.1-47.3.0",
+          "id": "net.minecraftforge:lowcodelanguage:1.20.1-47.4.10",
           "name": "Minecraft Forge (lowcodelanguage)",
           "type": "ForgeHosted",
           "classpath": true,
           "artifact": {
             "size": 7398,
-            "MD5": "d295c4a25914cc6486c2e501ef432b18",
-            "url": "https://devr3x.github.io/proyecto-exodo/repo/lib/net/minecraftforge/lowcodelanguage/1.20.1-47.3.0/lowcodelanguage-1.20.1-47.3.0.jar"
+            "MD5": "39c68f8be018557068512f16cf3f97fa",
+            "url": "https://devr3x.github.io/proyecto-exodo/repo/lib/net/minecraftforge/lowcodelanguage/1.20.1-47.4.10/lowcodelanguage-1.20.1-47.4.10.jar"
           },
           "subModules": [
             {
-              "id": "1.20.1-47.3.0",
+              "id": "1.20.1-47.4.10",
               "name": "Minecraft Forge (version.json)",
               "type": "VersionManifest",
               "artifact": {
-                "size": 16542,
-                "MD5": "826cb4d525749099af9ecb33b732fb84",
-                "url": "https://devr3x.github.io/proyecto-exodo/repo/versions/1.20.1-forge-47.3.0/1.20.1-forge-47.3.0.json"
+                "size": 16554,
+                "MD5": "eede38b0c090f69c7789cd35e753853d",
+                "url": "https://devr3x.github.io/proyecto-exodo/repo/versions/1.20.1-forge-47.4.10/1.20.1-forge-47.4.10.json"
               }
             },
             {
-              "id": "net.minecraftforge:fmlcore:1.20.1-47.3.0",
+              "id": "net.minecraftforge:fmlcore:1.20.1-47.4.10",
               "name": "Minecraft Forge (fmlcore)",
               "type": "Library",
               "classpath": true,
               "artifact": {
-                "size": 118685,
-                "MD5": "2ef1c9adb09cc3592e5e7185c90570c9",
-                "url": "https://devr3x.github.io/proyecto-exodo/repo/lib/net/minecraftforge/fmlcore/1.20.1-47.3.0/fmlcore-1.20.1-47.3.0.jar"
+                "size": 118913,
+                "MD5": "340eb6124a32dab3bfaea8f1b2f3dd02",
+                "url": "https://devr3x.github.io/proyecto-exodo/repo/lib/net/minecraftforge/fmlcore/1.20.1-47.4.10/fmlcore-1.20.1-47.4.10.jar"
               },
               "subModules": []
             },
             {
-              "id": "net.minecraftforge:javafmllanguage:1.20.1-47.3.0",
+              "id": "net.minecraftforge:javafmllanguage:1.20.1-47.4.10",
               "name": "Minecraft Forge (javafmllanguage)",
               "type": "Library",
               "classpath": true,
               "artifact": {
-                "size": 16516,
-                "MD5": "f457a3acdf187aa53ca5cbac9a951fcf",
-                "url": "https://devr3x.github.io/proyecto-exodo/repo/lib/net/minecraftforge/javafmllanguage/1.20.1-47.3.0/javafmllanguage-1.20.1-47.3.0.jar"
+                "size": 16854,
+                "MD5": "1193446859d078e83d9fcc4d8a39f44d",
+                "url": "https://devr3x.github.io/proyecto-exodo/repo/lib/net/minecraftforge/javafmllanguage/1.20.1-47.4.10/javafmllanguage-1.20.1-47.4.10.jar"
               },
               "subModules": []
             },
             {
-              "id": "net.minecraftforge:mclanguage:1.20.1-47.3.0",
+              "id": "net.minecraftforge:mclanguage:1.20.1-47.4.10",
               "name": "Minecraft Forge (mclanguage)",
               "type": "Library",
               "classpath": true,
               "artifact": {
-                "size": 4998,
-                "MD5": "09464464e54df9838666d62cf151c2c0",
-                "url": "https://devr3x.github.io/proyecto-exodo/repo/lib/net/minecraftforge/mclanguage/1.20.1-47.3.0/mclanguage-1.20.1-47.3.0.jar"
+                "size": 4999,
+                "MD5": "13e469f44fc6fff975688c6b18f8e9a1",
+                "url": "https://devr3x.github.io/proyecto-exodo/repo/lib/net/minecraftforge/mclanguage/1.20.1-47.4.10/mclanguage-1.20.1-47.4.10.jar"
               },
               "subModules": []
             },
             {
-              "id": "net.minecraftforge:forge:1.20.1-47.3.0:universal",
+              "id": "net.minecraftforge:forge:1.20.1-47.4.10:universal",
               "name": "Minecraft Forge (universal jar)",
               "type": "Library",
               "classpath": false,
               "artifact": {
-                "size": 2753075,
-                "MD5": "4804c269e3b593655a9526743f455ef8",
-                "url": "https://devr3x.github.io/proyecto-exodo/repo/lib/net/minecraftforge/forge/1.20.1-47.3.0/forge-1.20.1-47.3.0-universal.jar"
+                "size": 2777708,
+                "MD5": "f202df135ad32fef7e7c42e957c142af",
+                "url": "https://devr3x.github.io/proyecto-exodo/repo/lib/net/minecraftforge/forge/1.20.1-47.4.10/forge-1.20.1-47.4.10-universal.jar"
               },
               "subModules": []
             },
             {
-              "id": "net.minecraftforge:forge:1.20.1-47.3.0:client",
+              "id": "net.minecraftforge:forge:1.20.1-47.4.10:client",
               "name": "Minecraft Forge (client jar)",
               "type": "Library",
               "classpath": false,
               "artifact": {
-                "size": 4792900,
-                "MD5": "505bc8230f0e393e853739df4e71da99",
-                "url": "https://devr3x.github.io/proyecto-exodo/repo/lib/net/minecraftforge/forge/1.20.1-47.3.0/forge-1.20.1-47.3.0-client.jar"
+                "size": 4848366,
+                "MD5": "5c4d8867f3152f9c397859436a06321c",
+                "url": "https://devr3x.github.io/proyecto-exodo/repo/lib/net/minecraftforge/forge/1.20.1-47.4.10/forge-1.20.1-47.4.10-client.jar"
               },
               "subModules": []
             },
@@ -146,53 +146,53 @@
               }
             },
             {
-              "id": "org.ow2.asm:asm:9.7",
+              "id": "org.ow2.asm:asm:9.8",
               "name": "Minecraft Forge (asm)",
               "type": "Library",
               "artifact": {
-                "size": 125428,
-                "MD5": "3957b18bf02a62edcb6726d074b90b08",
-                "url": "https://devr3x.github.io/proyecto-exodo/repo/lib/org/ow2/asm/asm/9.7/asm-9.7.jar"
+                "size": 126113,
+                "MD5": "f5adf3bfc54fb3d2cd8e3a1f275084bc",
+                "url": "https://devr3x.github.io/proyecto-exodo/repo/lib/org/ow2/asm/asm/9.8/asm-9.8.jar"
               }
             },
             {
-              "id": "org.ow2.asm:asm-commons:9.7",
+              "id": "org.ow2.asm:asm-commons:9.8",
               "name": "Minecraft Forge (asm-commons)",
               "type": "Library",
               "artifact": {
-                "size": 73426,
-                "MD5": "53a46610df6a8dbc4ff85b8fd4cdea66",
-                "url": "https://devr3x.github.io/proyecto-exodo/repo/lib/org/ow2/asm/asm-commons/9.7/asm-commons-9.7.jar"
+                "size": 73498,
+                "MD5": "c8c3d9ccf240144e74d94ff658b024c9",
+                "url": "https://devr3x.github.io/proyecto-exodo/repo/lib/org/ow2/asm/asm-commons/9.8/asm-commons-9.8.jar"
               }
             },
             {
-              "id": "org.ow2.asm:asm-tree:9.7",
+              "id": "org.ow2.asm:asm-tree:9.8",
               "name": "Minecraft Forge (asm-tree)",
               "type": "Library",
               "artifact": {
                 "size": 51934,
-                "MD5": "ea5cad3e0cbd2520688e4b0b5c4218e7",
-                "url": "https://devr3x.github.io/proyecto-exodo/repo/lib/org/ow2/asm/asm-tree/9.7/asm-tree-9.7.jar"
+                "MD5": "4ab1aaec43c77a2d9b56e6d6d496f705",
+                "url": "https://devr3x.github.io/proyecto-exodo/repo/lib/org/ow2/asm/asm-tree/9.8/asm-tree-9.8.jar"
               }
             },
             {
-              "id": "org.ow2.asm:asm-util:9.7",
+              "id": "org.ow2.asm:asm-util:9.8",
               "name": "Minecraft Forge (asm-util)",
               "type": "Library",
               "artifact": {
-                "size": 93784,
-                "MD5": "e7d6e20888e6fd99605f4c5fe1dfa8b0",
-                "url": "https://devr3x.github.io/proyecto-exodo/repo/lib/org/ow2/asm/asm-util/9.7/asm-util-9.7.jar"
+                "size": 94559,
+                "MD5": "62498ef324bdab15f407d703f7d78d19",
+                "url": "https://devr3x.github.io/proyecto-exodo/repo/lib/org/ow2/asm/asm-util/9.8/asm-util-9.8.jar"
               }
             },
             {
-              "id": "org.ow2.asm:asm-analysis:9.7",
+              "id": "org.ow2.asm:asm-analysis:9.8",
               "name": "Minecraft Forge (asm-analysis)",
               "type": "Library",
               "artifact": {
-                "size": 34776,
-                "MD5": "910ac9c691023f1a9ff33c413ae9fbf6",
-                "url": "https://devr3x.github.io/proyecto-exodo/repo/lib/org/ow2/asm/asm-analysis/9.7/asm-analysis-9.7.jar"
+                "size": 35151,
+                "MD5": "3d63508405f5610fc2ea673ff5471553",
+                "url": "https://devr3x.github.io/proyecto-exodo/repo/lib/org/ow2/asm/asm-analysis/9.8/asm-analysis-9.8.jar"
               }
             },
             {
@@ -236,13 +236,13 @@
               }
             },
             {
-              "id": "net.minecraftforge:coremods:5.1.6",
+              "id": "net.minecraftforge:coremods:5.2.4",
               "name": "Minecraft Forge (coremods)",
               "type": "Library",
               "artifact": {
-                "size": 24124,
-                "MD5": "4b4fe7e512819804660d621bf11c7381",
-                "url": "https://devr3x.github.io/proyecto-exodo/repo/lib/net/minecraftforge/coremods/5.1.6/coremods-5.1.6.jar"
+                "size": 31872,
+                "MD5": "5295505357ba9b98450c5e3121f82191",
+                "url": "https://devr3x.github.io/proyecto-exodo/repo/lib/net/minecraftforge/coremods/5.2.4/coremods-5.2.4.jar"
               }
             },
             {
@@ -356,13 +356,13 @@
               }
             },
             {
-              "id": "org.openjdk.nashorn:nashorn-core:15.3",
+              "id": "org.openjdk.nashorn:nashorn-core:15.4",
               "name": "Minecraft Forge (nashorn-core)",
               "type": "Library",
               "artifact": {
-                "size": 2167288,
-                "MD5": "91e98c20afa1090c344229ce28b4c53f",
-                "url": "https://devr3x.github.io/proyecto-exodo/repo/lib/org/openjdk/nashorn/nashorn-core/15.3/nashorn-core-15.3.jar"
+                "size": 2167292,
+                "MD5": "a9b3360e6a486cf62c1952c7816b7d97",
+                "url": "https://devr3x.github.io/proyecto-exodo/repo/lib/org/openjdk/nashorn/nashorn-core/15.4/nashorn-core-15.4.jar"
               }
             },
             {
@@ -406,23 +406,23 @@
               }
             },
             {
-              "id": "net.minecraftforge:fmlloader:1.20.1-47.3.0",
+              "id": "net.minecraftforge:fmlloader:1.20.1-47.4.10",
               "name": "Minecraft Forge (fmlloader)",
               "type": "Library",
               "artifact": {
-                "size": 264538,
-                "MD5": "cad68c5d61009b7e94fac7150f3f1dcf",
-                "url": "https://devr3x.github.io/proyecto-exodo/repo/lib/net/minecraftforge/fmlloader/1.20.1-47.3.0/fmlloader-1.20.1-47.3.0.jar"
+                "size": 267079,
+                "MD5": "9446521da84ab53aa7a81af82d4e854a",
+                "url": "https://devr3x.github.io/proyecto-exodo/repo/lib/net/minecraftforge/fmlloader/1.20.1-47.4.10/fmlloader-1.20.1-47.4.10.jar"
               }
             },
             {
-              "id": "net.minecraftforge:fmlearlydisplay:1.20.1-47.3.0",
+              "id": "net.minecraftforge:fmlearlydisplay:1.20.1-47.4.10",
               "name": "Minecraft Forge (fmlearlydisplay)",
               "type": "Library",
               "artifact": {
-                "size": 170830,
-                "MD5": "572320060e2c3105df15da32091de640",
-                "url": "https://devr3x.github.io/proyecto-exodo/repo/lib/net/minecraftforge/fmlearlydisplay/1.20.1-47.3.0/fmlearlydisplay-1.20.1-47.3.0.jar"
+                "size": 170518,
+                "MD5": "828cdcc361baffcdd38d7b7d05c62e35",
+                "url": "https://devr3x.github.io/proyecto-exodo/repo/lib/net/minecraftforge/fmlearlydisplay/1.20.1-47.4.10/fmlearlydisplay-1.20.1-47.4.10.jar"
               }
             }
           ]
