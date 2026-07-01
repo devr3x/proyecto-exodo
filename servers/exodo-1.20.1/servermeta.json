@@ -1,0 +1,16 @@
+{
+  "$schema": "file:///D:/DESCARGAS/exodo-archivos/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "Proyecto Éxodo",
+    "description": "Servidor Oficial de Proyecto Éxodo",
+    "icon": "https://i.imgur.com/your-icon.png",
+    "address": "play.proyectoexodo.com",
+    "mainServer": true,
+    "autoconnect": true
+  },
+  "forge": {
+    "version": "47.3.0"
+  },
+  "untrackedFiles": []
+}
